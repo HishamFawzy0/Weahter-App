@@ -1,0 +1,148 @@
+
+
+
+
+.navbar-toggler{
+    background-color: rgb(0, 154, 216) !important;
+    margin: 0;
+    padding: auto;
+    
+}
+
+.title{
+margin-left: -90px;
+}
+.navbar{
+    background-color: #1E202B !important;
+}
+.navbar .nav-link{
+    color: white;
+    border: solid 1px transparent;
+    transition: all 0.5s ;
+
+}
+.navbar .acc{
+    border: solid 1px rgb(0, 154, 216);
+    color: rgb(0, 154, 216);
+}
+.navbar .nav-link:hover{
+    color: rgb(0, 154, 216);
+    border: solid 1px rgb(0, 154, 216);
+
+}
+
+
+.home{
+    background-color: #1E202B;
+    background-image: url(../imgs/banner.png);
+    /* background-size: cover; */
+    background-position: top;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+}
+.home input{
+    background-color: #1E202B;
+    border: transparent;
+    color: white;
+}
+.home input::placeholder{
+    color: gray;
+    font-size: 20px;
+    padding: 0 20px;
+}
+.home input:focus{
+    background-color: #1E202B;
+    font-size: 20px;
+    border: none;
+}
+.home .form-control:focus{
+    box-shadow: none;
+    
+}
+.home button{
+    right: 14%;
+    top: 8px;
+    color: white;
+    background-color: #009AD8;
+}
+.home button:hover{
+   
+    color: white;
+    background-color: #009AD8;
+}
+.temp{
+    font-size: 45px !important;
+    width: 100%;
+}
+.row>* {
+    padding-left: 0;
+    padding-right: 0;
+}
+.card{
+    border: transparent;
+    height: 450px;
+    /* border-radius: 0; */
+}
+.card-header{
+background-color: #2C303D;
+}
+.card-body{
+    background-color: #313544;
+    
+}
+.center-header{
+    background-color: #212530;
+}
+.center-body{
+    background-color: #252936;
+}
+
+.card-header:first-child {
+    border-radius:0;
+}
+
+
+.contact{
+    background-color: #252936;
+}
+
+.contact input{
+    background-color: #1E202B;
+    border: transparent;
+}
+.contact input:focus{
+    background-color: #1E202B;
+}
+.contact input::placeholder{
+    color: gray;
+    font-size: 20px;
+}
+.contact .form-control:focus{
+    box-shadow: none;
+    
+}
+.contact button{
+    right: 51%;
+    top: 8px;
+    color: white;
+    background-color: #009AD8;
+}
+.contact button:hover{
+    
+    color: white;
+    background-color: #009AD8;
+}
+
+.icon{
+    width: 40px;
+    height: 40px;
+    background-color: #1E202B;
+    color: #009AD8;
+    transition: all 0.5s;
+    cursor: pointer;
+}
+.icon:hover{
+
+    background-color: #009AD8;
+    color: #1E202B;
+}
