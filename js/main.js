@@ -1,6 +1,6 @@
 let search = document.querySelector("#search");
 // let rowData = document.querySelector("#row-data");
-let arrs = [];
+
 
 search.addEventListener("input", async () => {
   let res = await fetch(
