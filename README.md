@@ -29,6 +29,6 @@ Welcome to the **Weather App**! This application allows users to search for real
 ---
 
 ## 🌟 How to Use  
-1. Clone the repository:  
+1. repository deployment:  
    ```bash  
-   git clone https://github.com/HishamFawzy0/Weahter-App.git  
+   Direct Link==>   https://hishamfawzy0.github.io/Weahter-App/  
