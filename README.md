@@ -1,4 +1,4 @@
-# Weahter-App
+# Weather-App
  
 # 🌤️ Weather App  
 
